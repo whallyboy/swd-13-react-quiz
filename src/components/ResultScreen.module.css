@@ -1,0 +1,4 @@
+.card { background: #fff; color: #333; border-radius: 16px; padding: 2rem; width: 100%; max-width: 480px; box-shadow: 0 10px 30px rgba(0,0,0,.2); text-align: center; }
+.title { margin: 0 0 1rem; }
+.score { font-size: 1.5rem; margin-bottom: 1.5rem; }
+.restartBtn { background: #764ba2; color: #fff; border: none; padding: .75rem 2rem; border-radius: 999px; cursor: pointer; }

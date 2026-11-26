@@ -1,0 +1,10 @@
+.card { background: #fff; color: #333; border-radius: 16px; padding: 2rem; width: 100%; max-width: 600px; box-shadow: 0 10px 30px rgba(0,0,0,.2); text-align: center; }
+.text { font-size: 1.4rem; margin-bottom: 1.5rem; }
+.answers { display: grid; grid-template-columns: 1fr 1fr; gap: .75rem; }
+.answerBtn { padding: .75rem; border-radius: 10px; border: 2px solid #764ba2; background: #f3effa; cursor: pointer; font-size: 1rem; }
+.answerBtn:hover { background: #764ba2; color: #fff; }
+.correct { background: #2ecc71; color: #fff; border-color: #27ae60; }
+.incorrect { background: #e74c3c; color: #fff; border-color: #c0392b; }
+.dimmed { opacity: .5; }
+.live { margin-top: .75rem; font-weight: 600; min-height: 1.25rem; }
+.nextBtn:hover { background: #5a3780; }
